@@ -133,7 +133,7 @@
 		// Panel.
 			$header
 				.panel({
-					delay: 500,
+					delay: 100,
 					hideOnClick: true,
 					hideOnSwipe: true,
 					resetScroll: true,
